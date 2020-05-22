@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
-import './UserRolesV1.dart';
+import 'package:pip_services_roles/pip_services_roles.dart';
 
 abstract class IRolesClientV1 {
   /// Gets a page of roles retrieved by a given filter.

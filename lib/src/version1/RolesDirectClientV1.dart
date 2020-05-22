@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
 import 'package:pip_services3_rpc/pip_services3_rpc.dart';
-import './UserRolesV1.dart';
+import 'package:pip_services_roles/pip_services_roles.dart';
 import './IRolesClientV1.dart';
 
 class RolesDirectClientV1 extends DirectClient<dynamic>
